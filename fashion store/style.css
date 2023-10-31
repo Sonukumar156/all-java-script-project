@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav1{
+    float: right;
+   
+    list-style-type: none;
+
+    
+}
+li {
+    float: left;
+    display: inline;
+    text-decoration: none;
+gap: 2rem;
+  }
+  
+  a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+    text-decoration: none;
+  }
